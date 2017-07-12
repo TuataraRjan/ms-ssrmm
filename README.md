@@ -1,2 +1,2 @@
 # ms-ssrmm
-micro service-springboot/sprnigcloud/redis/mybatis/mariadb
+micro-service-springboot/springcloud/redis/mybatis/mariadb
