@@ -31,5 +31,6 @@
 		<module>ssrmm-consumer</module>
 		<module>ssrmm-cserver</module>
 		<module>ssrmm-monitor</module>
+		<module>ssrmm-gateway</module>
 	</modules>
 </project>
