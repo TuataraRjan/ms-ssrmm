@@ -15,6 +15,15 @@
 
 ps.1：中间件安装网上资料丰富，不再赘述
 
-ps.2：kafka原本也应该装在服务器上，但是由于kafka配置中的listeners和advitised.listeners很混乱，无论怎么配置总是出现leader_not_available，网上也无法找到更好的解决办法，为了保证原计划进度，将kafka搭建在了本地机器中，顺利运行。对于leader_not_available问题，需要后续持续跟进。
+ps.2：kafka原本也应该装在服务器上，但是由于kafka配置中的listeners和advitised.listeners很混乱，无论怎么配置总是出现leader\_not\_available，网上也无法找到更好的解决办法，为了保证原计划进度，将kafka搭建在了本地机器中，顺利运行。对于leader\_not\_available问题，需要后续持续跟进。
+
+#介绍
+
+![Image text](ms-ssrmm/assets/Introduction-1.png)
+
+
+
+
+
 
 
