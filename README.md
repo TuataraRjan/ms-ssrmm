@@ -45,7 +45,7 @@ Zuul--前置网关，对客户端请求进行分发，起到负载均衡的目�
 ## 请求流向
 ![Image text](https://github.com/TuataraRjan/ms-ssrmm/blob/master/assets/Introduction-4.png)
 
-途中所示红色、绿色、紫色分别代表客户、配置管理、Admin三种不同的角色在对系统进行访问时的请求流向
+图中所示红色、绿色、紫色分别代表客户、配置管理、Admin三种不同的角色在对系统进行访问时的请求流向
 
 
 
