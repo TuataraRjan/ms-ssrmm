@@ -19,7 +19,7 @@ ps.2：kafka原本也应该装在服务器上，但是由于kafka配置中的lis
 
 #介绍
 
-![Image text](ms-ssrmm/assets/Introduction-1.png)
+![Image text](https://github.com/TuataraRjan/ms-ssrmm/blob/master/assets/Introduction-1.png)
 
 
 
