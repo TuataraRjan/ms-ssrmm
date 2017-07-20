@@ -1,0 +1,28 @@
+<!DOCTYPE mapper
+    PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+    "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="studio.tuatara.ssrmm.provider.dao.IDemoDao">
+	<insert id="addUser" parameterType="studio.tuatara.ssrmm.provider.pojo.UserInfo">
+		insert into demo_table(
+		user_name,
+		user_code,
+		area,
+		user_type,
+		update_date
+		)
+		
+		values
+		(#{userName},
+		#{userCode},
+		#{area},
+		#{userType},
+		#{updateDate}
+		)
+	</insert>
+
+
+	<select id="queryUsers" resultType="studio.tuatara.ssrmm.provider.pojo.UserInfo"  >
+		select * from demo_table
+	</select>
+</mapper>
