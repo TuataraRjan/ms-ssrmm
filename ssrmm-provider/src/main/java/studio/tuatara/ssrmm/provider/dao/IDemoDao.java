@@ -11,7 +11,7 @@ import studio.tuatara.ssrmm.provider.pojo.UserInfo;
 
 /**
  * @author Rjan
- *
+ * 
  */
 @Mapper
 public interface IDemoDao {
